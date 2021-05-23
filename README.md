@@ -26,7 +26,7 @@ npm install
 > To start the server in development mode
 
 ```bash
-npm run server
+npm run dev
 ```
 
 > To start the server in production mode
